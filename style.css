@@ -1,0 +1,31 @@
+.nav-pills, .container-fluid, .color4, .color5, body{
+    background-color: #BB9CC0;
+}
+.textcolor{
+    color: #3A3845;
+    text-decoration:overline underline;
+    font-weight: bolder;
+}
+.textcolor1{
+    color: #3A3845;
+    font-weight: bolder;
+}
+.body1, .color6{
+    background-color: #F8EDE3;
+}
+hr{
+    border: 2px double;
+    color: #3A3845;
+}
+.color2, .textcolor3{
+    color: #3A3845;
+}
+.color5:hover{
+    background-color: #7D6E83;
+}
+.navbar-brand, .nav-item, .featurette-heading, .font{
+    font-family: 'Italiana', serif;
+}
+ .berghan, .lead{
+    font-family: 'Unbounded', cursive;
+}
